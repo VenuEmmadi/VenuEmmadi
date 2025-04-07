@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 Contributor at OpenTelmetry where I contribute to [opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib).
+- 👯 I’m looking to collaborate on distributed systems, backend development, cloud-native solutions.
+- 📫 How to reach me: Drop me an [e-mail](emmadivenu2310@gmail.com) or reach out to me on [Linkedin](https://www.linkedin.com/in/venu-madhav-emmadi-7085b6187/)!
